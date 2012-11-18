@@ -1,0 +1,1 @@
+TimeLapse is a command line tool for creating time lapse videos using a webcam. You define the time to capture the first frame and the desired delay between images and TimeLapse records frames according to that schedule. It can then stitch the frames together into a time lapse video. TimeLapse uses the OpenCV and boost libraries.
